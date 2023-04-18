@@ -2,7 +2,7 @@
 import SoftwareDeveloper from 'chrisankowski';
 
 class Bio extends SoftwareDeveloper {
-  name     = 'Christian Ankowski';
+  name     = 'Christian Walter';
   title    = 'Software Developer';
   company  = 'Flaschenpost SE';
   location = 'Bottrop, Germany';
